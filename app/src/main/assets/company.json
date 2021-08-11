@@ -1,0 +1,23 @@
+{
+  "department": {
+    "name": "Finance",
+    "location": "San Fransisco"
+  },
+  "employees": [
+    {
+      "name": "Jason",
+      "age": 24,
+      "email": "jason@mail.com"
+    },
+    {
+      "name": "Mike",
+      "age": 23,
+      "email": "mike@mail.com"
+    },
+    {
+      "name": "Daniel",
+      "age": 21,
+      "email": "daniel@mail.com"
+    }
+  ]
+}
